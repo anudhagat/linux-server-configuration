@@ -7,6 +7,9 @@ Configuration details for a linux server on Amazon AWS.
 ## SSH port to server
 2200
 
+## Login
+ssh -i ~/.ssh/udacity_key.rsa grader@52.34.126.72
+
 ## URL to host application
 http://ec2-52-34-126-72.us-west-2.compute.amazonaws.com
 
